@@ -52,7 +52,7 @@ const projectPage = `
                         </ul>
                     </div>
                 </div>         
-                <img src="./images/ivisproj.png" alt="JobVis"/>
+                <img src="../images/ivisproj.png" alt="JobVis"/>
             </div>
         </div>
         <div id="project2" class="container">
