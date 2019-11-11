@@ -40,7 +40,7 @@ const homePage = `
                 <div class="carousel-item active">
                   <a
                       href="#"
-                      onclick="onNavigate('/projects'); return false;"
+                      onclick="onNavigate('Portfolio/projects'); return false;"
                   >
                       <img src="./images/jobviz.png" alt="JobVis" />
                   </a>
@@ -51,7 +51,7 @@ const homePage = `
                 <div class="carousel-item">
                   <a
                     href="#"
-                    onclick="onNavigate('/projects'); return false;"
+                    onclick="onNavigate('Portfolio/projects'); return false;"
                   >
                     <img src="./images/ivisproj.png" alt="Ivis project" />
                   </a>
@@ -62,7 +62,7 @@ const homePage = `
                 <div class="carousel-item">
                   <a
                     href="#"
-                    onclick="onNavigate('/projects'); return false;"
+                    onclick="onNavigate('Portfolio/projects'); return false;"
                   >
                     <img src="./images/ipark.png" alt="iParkInStan" />
                   </a>
@@ -73,7 +73,7 @@ const homePage = `
                 <div class="carousel-item">
                   <a
                     href="#"
-                    onclick="onNavigate('/projects'); return false;"
+                    onclick="onNavigate('Portfolio/projects'); return false;"
                   >
                     <img src="./images/pongar.png" alt="PongAR" />
                   </a>
