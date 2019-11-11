@@ -15,7 +15,7 @@ const homePage = `
                         </div>
                     </div>
                     <div class="col-md-4">
-                      <img src="./images/portfolio.jpg" alt="profilepicture" style="height: 300px; width: 200px;"/>
+                      <img src="images/portfolio.jpg" alt="profilepicture" style="height: 300px; width: 200px;"/>
                     </div>
                 </div>
             </div>
