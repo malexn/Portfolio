@@ -1,7 +1,7 @@
 const routes = {
-  "/": homePage,
+  "/Portfolio/": homePage,
   "/index.html": homePage,
-  "/projects": projectPage
+  "/Portfolio/projects": projectPage
 };
 
 const rootDiv = document.getElementById("root");
