@@ -24,7 +24,7 @@ const projectPage = `
                         </ul>
                     </div>
                 </div>         
-                <img src="./images/jobviz.png" alt="JobVis"/>
+                <img src="images/jobviz.png" alt="JobVis"/>
             </div>
         </div>
         <div id="project2" class="container">
@@ -52,7 +52,7 @@ const projectPage = `
                         </ul>
                     </div>
                 </div>         
-                <img src="../images/ivisproj.png" alt="JobVis"/>
+                <img src="images/ivisproj.png" alt="JobVis"/>
             </div>
         </div>
         <div id="project2" class="container">
@@ -80,7 +80,7 @@ const projectPage = `
                         </ul>
                     </div>
                 </div>         
-                <img src="./images/ipark.png" alt="JobVis"/>
+                <img src="images/ipark.png" alt="JobVis"/>
             </div>
         </div>
         <div id="project2" class="container">
@@ -107,7 +107,7 @@ const projectPage = `
                         </ul>
                     </div>
                 </div>         
-                <img src="./images/pongar.png" alt="JobVis"/>
+                <img src="images/pongar.png" alt="JobVis"/>
             </div>
         </div>
     </div>
