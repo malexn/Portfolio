@@ -1,7 +1,7 @@
 const routes = {
   "malexn.github.io/Portfolio/": homePage,
-  "Portfolio/index.html": homePage,
-  "Portfolio/projects": projectPage
+  "malexn.github.io/Portfolio/index.html": homePage,
+  "malexn.github.io/Portfolio/projects": projectPage
 };
 
 const rootDiv = document.getElementById("root");
