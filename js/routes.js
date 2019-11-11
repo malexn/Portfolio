@@ -1,5 +1,5 @@
 const routes = {
-  "Portfolio/": homePage,
+  "malexn.github.io/Portfolio/": homePage,
   "Portfolio/index.html": homePage,
   "Portfolio/projects": projectPage
 };
