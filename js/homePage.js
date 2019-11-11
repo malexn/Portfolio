@@ -40,9 +40,9 @@ const homePage = `
                 <div class="carousel-item active">
                   <a
                       href="#"
-                      onclick="onNavigate('Portfolio/projects'); return false;"
+                      onclick="onNavigate('malexn.github.io/Portfolio/projects'); return false;"
                   >
-                      <img src="./images/jobviz.png" alt="JobVis" />
+                      <img src="images/jobviz.png" alt="JobVis" />
                   </a>
                   <div class="carousel-caption">
                       <h3 style="color:black">Information Visualization</h3>
@@ -51,9 +51,9 @@ const homePage = `
                 <div class="carousel-item">
                   <a
                     href="#"
-                    onclick="onNavigate('Portfolio/projects'); return false;"
+                    onclick="onNavigate('malexn.github.io/Portfolio/projects'); return false;"
                   >
-                    <img src="./images/ivisproj.png" alt="Ivis project" />
+                    <img src="images/ivisproj.png" alt="Ivis project" />
                   </a>
                   <div class="carousel-caption">
                     <h3 style="color:black">Information Visualization</h3>
@@ -62,9 +62,9 @@ const homePage = `
                 <div class="carousel-item">
                   <a
                     href="#"
-                    onclick="onNavigate('Portfolio/projects'); return false;"
+                    onclick="onNavigate('malexn.github.io/Portfolio/projects'); return false;"
                   >
-                    <img src="./images/ipark.png" alt="iParkInStan" />
+                    <img src="images/ipark.png" alt="iParkInStan" />
                   </a>
                   <div class="carousel-caption">
                     <h3 style="color:black">Geolocation</h3>
@@ -73,9 +73,9 @@ const homePage = `
                 <div class="carousel-item">
                   <a
                     href="#"
-                    onclick="onNavigate('Portfolio/projects'); return false;"
+                    onclick="onNavigate('malexn.github.io/Portfolio/projects'); return false;"
                   >
-                    <img src="./images/pongar.png" alt="PongAR" />
+                    <img src="images/pongar.png" alt="PongAR" />
                   </a>
                   <div class="carousel-caption">
                     <h3 style="color:black">AR</h3>
