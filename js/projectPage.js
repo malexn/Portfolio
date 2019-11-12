@@ -1,4 +1,4 @@
-const projectPage = `
+let projectPage = `
     <div class="ftco-section" id="projects">
         <div id="project1" class="container">
             <div class="row justify-content-center">
