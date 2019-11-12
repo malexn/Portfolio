@@ -1,17 +1,18 @@
-const routes = {
-  "malexn.github.io/Portfolio/": homePage,
-  "malexn.github.io/Portfolio/index.html": homePage,
-  "malexn.github.io/Portfolio/projects": projectPage
+let rootDiv = document.getElementById("root");
+
+let routes = {
+  "/": homePage,
+  "/index.html": homePage,
+  "/projects": projectPage
 };
 
-const rootDiv = document.getElementById("root");
-rootDiv.innerHTML = routes[window.location.pathname];
+window.onpopstate = () => {
+  rootDiv.innerHTML = routes[window.location.pathname];
+};
 
 const onNavigate = pathname => {
   window.history.pushState({}, pathname, window.location.origin + pathname);
   rootDiv.innerHTML = routes[pathname];
 };
 
-window.onpopstate = () => {
-  rootDiv.innerHTML = routes[window.location.pathname];
-};
+rootDiv.innerHTML = routes[window.location.pathname];
