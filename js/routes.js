@@ -1,9 +1,9 @@
 let rootDiv = document.getElementById("root");
 
 let routes = {
-  "/": homePage,
-  "/index.html": homePage,
-  "/projects": projectPage
+  "Portfolio/": homePage,
+  "Portfolio/index.html": homePage,
+  "Portfolio/projects": projectPage
 };
 
 window.onpopstate = () => {
