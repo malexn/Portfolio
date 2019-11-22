@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio in the making
+# Portfolio {Not active}
+This is the first version of my portfolio.
